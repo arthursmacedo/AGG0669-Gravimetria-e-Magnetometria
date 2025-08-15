@@ -11,7 +11,7 @@ Este repositório tem como finalidade:
 ## 📂 Estrutura
 AGG0669-Gravimetria-e-Magnetometria/
 │
-├── ep1/ # Exercício Programado 1: códigos, dados e resultados
+├── ep1/ # Exercício de Programação 1: códigos, dados e resultados
 ├── README.md # Documento explicativo do repositório
 
 ## 🛠 Tecnologias e Bibliotecas Utilizadas
@@ -32,4 +32,5 @@ AGG0669-Gravimetria-e-Magnetometria/
    
 3. Abra o Jupyter Notebook ou JupyterLab:
    jupyter notebook
+
 
