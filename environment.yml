@@ -1,0 +1,30 @@
+name: grav-mag
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Should be on every project
+  - python==3.13.*
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - black
+  # For building latex documents
+  - make
+  - tectonic
+  # Project specific dependencies
+  - pandas
+  - xarray
+  - netcdf4
+  - pygmt
+  - gmt
+  - pyproj
+  # Fatiando
+  - boule
+  - pooch
+  - verde
+  - harmonica
+  - choclo
+  - bordado
