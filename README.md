@@ -31,10 +31,14 @@ AGG0669-Gravimetria-e-Magnetometria/
    git clone https://github.com/arthursmacedo/AGG0669-Gravimetria-e-Magnetometria.git
 
 2. Acesse a pasta do projeto:
+   ```bash
    cd AGG0669-Gravimetria-e-Magnetometria
-   
+
+
 3. Abra o Jupyter Notebook ou JupyterLab:
+   ```bash
    jupyter notebook
+
 
 
 
