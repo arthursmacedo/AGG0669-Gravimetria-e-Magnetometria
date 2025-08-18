@@ -11,8 +11,6 @@ Este repositório tem como finalidade:
 ## 📂 Estrutura
 AGG0669-Gravimetria-e-Magnetometria/
 
-│
-
 ├── ep1/ # Exercício de Programação 1: códigos, dados e resultados
 
 ├── README.md # Documento explicativo do repositório
@@ -33,12 +31,7 @@ AGG0669-Gravimetria-e-Magnetometria/
 2. Acesse a pasta do projeto:
    ```bash
    cd AGG0669-Gravimetria-e-Magnetometria
-
-
+   
 3. Abra o Jupyter Notebook ou JupyterLab:
    ```bash
    jupyter notebook
-
-
-
-
