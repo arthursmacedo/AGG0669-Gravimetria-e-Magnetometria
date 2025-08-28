@@ -39,6 +39,3 @@ AGG0669-Gravimetria-e-Magnetometria/
 3. Abra o Jupyter Notebook ou JupyterLab:
    ```bash
    jupyter notebook
-
-
-
