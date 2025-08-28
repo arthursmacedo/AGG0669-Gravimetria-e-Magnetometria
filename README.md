@@ -11,6 +11,8 @@ Este repositório tem como finalidade:
 ## 📂 Estrutura
 AGG0669-Gravimetria-e-Magnetometria/
 
+├── aulas/
+    ├── g-da-esfera/ # Notebook desenvolvido na aula que calcula a aceleração da gravidade de uma esfera em diferentes profundidades e suas derivadas
 ├── ep1/ # Exercício de Programação 1: códigos, dados e resultados
 
 ├── README.md # Documento explicativo do repositório
@@ -35,3 +37,4 @@ AGG0669-Gravimetria-e-Magnetometria/
 3. Abra o Jupyter Notebook ou JupyterLab:
    ```bash
    jupyter notebook
+
