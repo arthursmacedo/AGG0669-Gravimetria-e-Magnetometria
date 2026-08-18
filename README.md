@@ -8,7 +8,13 @@ Este repositório tem como finalidade:
 - Apoiar os estudantes na realização dos Exercícios Programados (EPs).
 - Disponibilizar scripts e notebooks comentados para estudo e aplicação.
 
-## 🚀 Como Utilizar
+## 🔗 Links úteis
+
+1. [International Centre for Global Earth Models (ICGEM)](https://icgem.gfz.de/)
+2. [Fatiando a Terra](https://www.fatiando.org/)
+3. [PyGMT](https://www.pygmt.org/)
+
+## 🚀 Como utilizar
 1. Clone este repositório:
    ```bash
    git clone https://github.com/arthursmacedo/AGG0669-Gravimetria-e-Magnetometria.git
