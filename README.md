@@ -13,6 +13,7 @@ Este repositório tem como finalidade:
 1. [International Centre for Global Earth Models (ICGEM)](https://icgem.gfz.de/)
 2. [Fatiando a Terra](https://www.fatiando.org/)
 3. [PyGMT](https://www.pygmt.org/)
+4. [Calculadora IGRF NOAA](https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml?useFullSite=true)
 
 ## 🚀 Como utilizar
 1. Clone este repositório:
